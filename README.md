@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rudraksh Simlote</h1>
-<h3 align="center">A passionate student pursuing Computer Science at Rutgers University</h3>
+<h3 align="center">A passionate student pursuing Computer Science and Data Science at Rutgers University</h3>
 
 - 🌱 I’m currently learning **React and Angular**
 
