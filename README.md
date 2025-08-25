@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rudraksh Simlote</h1>
 <h3 align="center">A passionate student pursuing Computer Science and Data Science at Rutgers University</h3>
 
-- 🌱 I’m currently learning **React and Angular**
+- 🌱 I’m currently learning **new AI tools**
 
 - 👯 I’m looking to collaborate on **Any projects using skills I already have**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rudrakshsimlote@gmail.com**
 
-- ⚡ Fun fact **I enjoy playing table tennis 🏓**
+- ⚡ Fun fact **I enjoy playing table tennis 🏓 and soccer ⚽**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
