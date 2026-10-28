@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rudraksh Simlote</h1>
-<h3 align="center">AI Engineer at CGI's AI Forward Team, building agentic and RAG systems for enterprise clients — Rutgers CS & Data Science '25</h3>
+<h3 align="center">AI Engineer at CGI's AI Forward Team, building agentic and RAG systems for enterprise clients - Rutgers CS & Data Science '25</h3>
 
 - 🚀 Currently building agentic AI and RAG systems for enterprise clients at CGI, including an AI vehicle-inspection platform and an HR policy assistant piloted with 30+ HR Business Partners
 
-- 🌍 Also built **njit-worldcup.com**, a FIFA World Cup 2026 fan guide that's reached 3,651+ users across 30+ countries
+- 🌍 Also built **[njit-worldcup.com](url)**, a FIFA World Cup 2026 fan guide that's reached 3,651+ users across 30+ countries
 
-- 🌱 Working on **ActionSmith** in my own time — an agent that turns how you actually use a web app into a working, typed MCP server
+- 🌱 Working on **ActionSmith** in my own time - an agent that turns how you actually use a web app into a working, typed MCP server
 
-- 📺 Also stripped the ads and telemetry off my own Fire TV Stick and built it a fully custom open-source home screen for fun — live nature backgrounds, a phone-to-TV drawing board, and a free AI assistant, all running natively with no root
+- 📺 Also stripped the ads and telemetry off my own Fire TV Stick and built it a fully custom open-source home screen for fun - live nature backgrounds, a phone-to-TV drawing board, and a free AI assistant, all running natively with no root
 
 - 💬 Happy to talk AI agents, RAG pipelines, or anything in my pinned repos below
 
