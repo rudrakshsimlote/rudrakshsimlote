@@ -3,7 +3,7 @@
 
 - 🚀 Currently building agentic AI and RAG systems for enterprise clients at CGI, including an AI vehicle-inspection platform and an HR policy assistant piloted with 30+ HR Business Partners
 
-- 🌍 Also built **[njit-worldcup.com](url)**, a FIFA World Cup 2026 fan guide that's reached 3,651+ users across 30+ countries
+- 🌍 Also built **https://njit-worldcup.com/**, a FIFA World Cup 2026 fan guide that's reached 3,651+ users across 30+ countries
 
 - 🌱 Working on **ActionSmith** in my own time - an agent that turns how you actually use a web app into a working, typed MCP server
 
