@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Rudraksh Simlote</h1>
-<h3 align="center">A passionate student pursuing Computer Science and Data Science at Rutgers University</h3>
+<h3 align="center">AI Engineer at CGI's AI Forward Team, building agentic and RAG systems for enterprise clients — Rutgers CS & Data Science '25</h3>
 
-- 🌱 I’m currently learning **new AI tools**
+- 🚀 Currently building agentic AI and RAG systems for enterprise clients at CGI, including an AI vehicle-inspection platform and an HR policy assistant piloted with 30+ HR Business Partners
 
-- 👯 I’m looking to collaborate on **Any projects using skills I already have**
+- 🌍 Also built **njit-worldcup.com**, a FIFA World Cup 2026 fan guide that's reached 3,651+ users across 30+ countries
 
-- 🤝 I’m looking for help with **Any new project ideas**
+- 🌱 Working on **ActionSmith** in my own time — an agent that turns how you actually use a web app into a working, typed MCP server
 
-- 💬 Ask me about **Anything**
+- 📺 Also stripped the ads and telemetry off my own Fire TV Stick and built it a fully custom open-source home screen for fun — live nature backgrounds, a phone-to-TV drawing board, and a free AI assistant, all running natively with no root
 
-- 📫 How to reach me **rudrakshsimlote@gmail.com**
+- 💬 Happy to talk AI agents, RAG pipelines, or anything in my pinned repos below
 
-- ⚡ Fun fact **I enjoy playing table tennis 🏓 and soccer ⚽**
+- 📫 Reach me at **rudrakshsimlote@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rudrakshsimlote/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudraksh simlote" height="30" width="40" /></a>
-<a href="https://fb.com/rudraksh simlote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rudraksh simlote" height="30" width="40" /></a>
+<a href="https://fb.com/rudrakshsimlote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rudraksh simlote" height="30" width="40" /></a>
 <a href="https://instagram.com/rudrakshsimlote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rudrakshsimlote" height="30" width="40" /></a>
 </p>
 
